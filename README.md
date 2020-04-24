@@ -1,5 +1,5 @@
 # Group Project BT5153
-MSBA BT5153 Applied Machine Learning for Business Analytics
+NUS MSBA BT5153 Applied Machine Learning for Business Analytics
 
 #### Group 08
 #### Group Members: <br />
