@@ -1,7 +1,7 @@
 # Group Project BT5153
 MSBA BT5153 Applied Machine Learning for Business Analytics
 
-#### Group 08: <br />
+#### Group 08
 #### Group Members: <br />
 Abigail Tee Ren Hui <br />
 Chua Wei Yang Rex <br />
